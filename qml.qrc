@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>img/table1.png</file>
+        <file>img/table2.png</file>
+        <file>PageStack.qml</file>
+        <file>pages/View1.qml</file>
+        <file>pages/View2.qml</file>
+        <file>img/cancel.png</file>
+        <file>img/save.png</file>
+        <file>modules/WarningDialog.qml</file>
+    </qresource>
+</RCC>
